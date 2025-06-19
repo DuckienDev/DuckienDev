@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nguyen Duc Kien</h1>
-<h3 align="center">A Passionate Flutter Developer from Viet Nam</h3>
+<h3 align="center">A Passionate Developer from Viet Nam</h3>
 
 <p align="center">
   
