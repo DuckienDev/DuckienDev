@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Developer from Viet Nam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/09cc6f0e0c94df7d9c7b7e0ef60d8c72/4a244d7a33250897-f0/s540x810/5e9df2efdf0c6be7d0272d17d7b95ec6bb01c09e.gif" width="400" alt="F1 McLaren" />
+  <img src="https://cdn.dribbble.com/userupload/42338664/file/original-d694603179a89d3a8accc7b38f37efe2.gif" width="400" alt="F1 McLaren" />
 </p>
 
 <p align="center">
