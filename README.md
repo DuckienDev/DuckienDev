@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Developer from Viet Nam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/42338664/file/original-d694603179a89d3a8accc7b38f37efe2.gif" width="400" alt="F1 McLaren" />
+  <!-- <img src="https://cdn.dribbble.com/userupload/42338664/file/original-d694603179a89d3a8accc7b38f37efe2.gif" width="400" alt="F1 McLaren" /> -->
 </p>
 
 <p align="center">
